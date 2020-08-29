@@ -1,0 +1,8 @@
+
+const NAMESPACE = "im";
+const MOSQUITTO_SERVER = "localhost";
+const MOSQUITTO_PORT = 9002;
+
+export {
+    NAMESPACE, MOSQUITTO_SERVER, MOSQUITTO_PORT
+}
